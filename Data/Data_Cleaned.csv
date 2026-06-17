@@ -1,0 +1,502 @@
+NPs,Coating,Core_size,Shape,Dose,Type(Gram( +/-),Class,Family,Species,Duration,ZOI
+Ag,coated,11.2,spherical,3000.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,28.0
+Ag,coated,11.2,spherical,1500.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,23.0
+Ag,coated,11.2,spherical,750.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,19.0
+Ag,coated,11.2,spherical,370.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,21.0
+Ag,coated,11.2,spherical,180.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,18.0
+Ag,coated,28.0,spherical,31.25,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,8.5
+Ag,coated,29.0,spherical,31.25,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,4.5
+Ag,uncoated,9.0,spherical,62.5,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,18.0
+Ag,uncoated,9.0,spherical,62.5,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,14.3
+Ag,uncoated,9.0,spherical,62.5,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.8
+Ag,uncoated,9.0,spherical,62.5,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella typhi,24.0,15.0
+Ag,uncoated,9.0,spherical,31.25,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,17.6
+Ag,uncoated,9.0,spherical,31.25,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,12.6
+Ag,uncoated,9.0,spherical,31.25,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+Ag,uncoated,9.0,spherical,31.25,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella typhi,24.0,14.3
+Ag,uncoated,9.0,spherical,15.625,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,13.3
+Ag,uncoated,9.0,spherical,15.625,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,12.0
+Ag,uncoated,9.0,spherical,15.625,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.8
+Ag,uncoated,9.0,spherical,15.625,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella typhi,24.0,13.0
+Ag,uncoated,9.0,spherical,7.812,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,11.0
+Ag,uncoated,9.0,spherical,7.812,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,11.6
+Ag,uncoated,9.0,spherical,7.812,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.3
+Ag,uncoated,9.0,spherical,7.812,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella typhi,24.0,11.0
+Ag,uncoated,40.0,spherical,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,6.0
+Ag,uncoated,40.0,spherical,40.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,5.0
+Ag,uncoated,40.0,spherical,40.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,6.0
+Ag,uncoated,40.0,spherical,60.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,14.0
+Ag,uncoated,40.0,spherical,60.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,9.0
+Ag,uncoated,40.0,spherical,60.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,9.0
+Ag,uncoated,40.0,spherical,80.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,15.0
+Ag,uncoated,40.0,spherical,80.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,10.0
+Ag,uncoated,40.0,spherical,80.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,9.0
+Ag,uncoated,40.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,15.0
+Ag,uncoated,40.0,spherical,100.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,10.0
+Ag,uncoated,40.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,10.0
+Ag,uncoated,38.0,spherical,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.5
+Ag,uncoated,38.0,spherical,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,11.5
+Ag,uncoated,38.0,spherical,30.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,14.5
+Ag,uncoated,38.0,spherical,30.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,12.0
+Ag,uncoated,38.0,spherical,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,15.0
+Ag,uncoated,38.0,spherical,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,12.5
+Ag,uncoated,25.0,quasi-spherical,50.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,16.0
+Ag,uncoated,25.0,quasi-spherical,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,24.0
+Ag,uncoated,25.0,quasi-spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,17.0
+Ag,uncoated,25.0,quasi-spherical,50.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,16.0
+Ag,uncoated,30.0,spherical,26.57,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,34.5
+Ag,uncoated,30.0,spherical,53.94,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,42.8
+Ag,uncoated,30.0,spherical,26.57,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,42.8
+Ag,uncoated,30.0,spherical,53.94,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,43.6
+Ag,uncoated,30.0,spherical,26.57,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,33.6
+Ag,uncoated,30.0,spherical,53.94,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,42.8
+Ag,uncoated,30.0,spherical,26.57,p,Bacilli,Staphylococcaceae,Streptococcus pneumoniae,24.0,34.4
+Ag,uncoated,30.0,spherical,53.94,p,Bacilli,Staphylococcaceae,Streptococcus pneumoniae,24.0,37.8
+Ag,uncoated,35.36,spherical,5.0,p,Bacilli,Staphylococcaceae,Streptococcus pneumoniae,24.0,6.0
+Ag,uncoated,35.36,spherical,5.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,7.0
+Ag,uncoated,35.36,spherical,5.0,p,Bacilli,Enterococcaceae,Enterococcus faecalis,24.0,0.0
+Ag,uncoated,35.36,spherical,5.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,7.0
+Ag,uncoated,35.36,spherical,10.0,p,Bacilli,Staphylococcaceae,Streptococcus pneumoniae,24.0,7.0
+Ag,uncoated,35.36,spherical,10.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,9.0
+Ag,uncoated,35.36,spherical,10.0,p,Bacilli,Enterococcaceae,Enterococcus faecalis,24.0,0.0
+Ag,uncoated,35.36,spherical,10.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,9.0
+Ag,uncoated,35.36,spherical,15.0,p,Bacilli,Staphylococcaceae,Streptococcus pneumoniae,24.0,9.0
+Ag,uncoated,35.36,spherical,15.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,11.0
+Ag,uncoated,35.36,spherical,15.0,p,Bacilli,Enterococcaceae,Enterococcus faecalis,24.0,0.0
+Ag,uncoated,35.36,spherical,15.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+Ag,uncoated,100.0,spherical,12.5,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,7.0
+Ag,uncoated,100.0,spherical,12.5,n,Gammaproteobacteria,Vibrionaceae,Vibrio cholerae,24.0,5.0
+Ag,uncoated,100.0,spherical,12.5,p,Actinomycetes,Corynebacteriaceae,Corynebacterium species,24.0,6.0
+Ag,uncoated,100.0,spherical,12.5,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,5.0
+Ag,uncoated,100.0,spherical,12.5,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,6.0
+Ag,uncoated,100.0,spherical,12.5,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella typhi,24.0,13.0
+Ag,uncoated,100.0,spherical,12.5,n,Gammaproteobacteria,Enterobacteriaceae,Shigella flexneri,24.0,10.0
+Ag,uncoated,100.0,spherical,12.5,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,11.0
+Ag,uncoated,100.0,spherical,12.5,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,11.0
+Ag,uncoated,100.0,spherical,12.5,p,Actinomycetes,Micrococcaceae,Micrococcus luteus,24.0,5.0
+Ag,uncoated,100.0,spherical,12.5,n,Gammaproteobacteria,Morganellaceae,Proteus mirabilis,24.0,10.0
+Ag,uncoated,100.0,spherical,25.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.0
+Ag,uncoated,100.0,spherical,25.0,n,Gammaproteobacteria,Vibrionaceae,Vibrio cholerae,24.0,7.0
+Ag,uncoated,100.0,spherical,25.0,p,Actinomycetes,Corynebacteriaceae,Corynebacterium species,24.0,7.0
+Ag,uncoated,100.0,spherical,25.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,8.0
+Ag,uncoated,100.0,spherical,25.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,14.0
+Ag,uncoated,100.0,spherical,25.0,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella typhi,24.0,12.0
+Ag,uncoated,100.0,spherical,25.0,n,Gammaproteobacteria,Enterobacteriaceae,Shigella flexneri,24.0,13.0
+Ag,uncoated,100.0,spherical,25.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,13.0
+Ag,uncoated,100.0,spherical,25.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,15.0
+Ag,uncoated,100.0,spherical,25.0,p,Actinomycetes,Micrococcaceae,Micrococcus luteus,24.0,13.0
+Ag,uncoated,100.0,spherical,25.0,n,Gammaproteobacteria,Morganellaceae,Proteus mirabilis,24.0,12.0
+Ag,uncoated,100.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.0
+Ag,uncoated,100.0,spherical,50.0,n,Gammaproteobacteria,Vibrionaceae,Vibrio cholerae,24.0,9.0
+Ag,uncoated,100.0,spherical,50.0,p,Actinomycetes,Corynebacteriaceae,Corynebacterium species,24.0,9.0
+Ag,uncoated,100.0,spherical,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,8.0
+Ag,uncoated,100.0,spherical,50.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,9.0
+Ag,uncoated,100.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella typhi,24.0,19.0
+Ag,uncoated,100.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Shigella flexneri,24.0,16.0
+Ag,uncoated,100.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,15.0
+Ag,uncoated,100.0,spherical,50.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,17.0
+Ag,uncoated,100.0,spherical,50.0,p,Actinomycetes,Micrococcaceae,Micrococcus luteus,24.0,17.0
+Ag,uncoated,100.0,spherical,50.0,n,Gammaproteobacteria,Morganellaceae,Proteus mirabilis,24.0,16.0
+Ag,uncoated,100.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,15.0
+Ag,uncoated,100.0,spherical,100.0,n,Gammaproteobacteria,Vibrionaceae,Vibrio cholerae,24.0,13.0
+Ag,uncoated,100.0,spherical,100.0,p,Actinomycetes,Corynebacteriaceae,Corynebacterium species,24.0,11.0
+Ag,uncoated,100.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,9.0
+Ag,uncoated,100.0,spherical,100.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,10.0
+Ag,uncoated,100.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella typhi,24.0,21.0
+Ag,uncoated,100.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Shigella flexneri,24.0,20.0
+Ag,uncoated,100.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,17.0
+Ag,uncoated,100.0,spherical,100.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,20.0
+Ag,uncoated,100.0,spherical,100.0,p,Actinomycetes,Micrococcaceae,Micrococcus luteus,24.0,20.0
+Ag,uncoated,100.0,spherical,100.0,n,Gammaproteobacteria,Morganellaceae,Proteus mirabilis,24.0,19.0
+Au,coated,48.0,star,20.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,23.0
+Au,coated,48.0,star,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,20.0
+Au,coated,60.0,irregular,50.0,p,Bacilli,Enterococcaceae,Enterococcus faecalis,12.0,7.3
+Au,coated,60.0,irregular,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,12.0,33.1
+Au,coated,60.0,irregular,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,12.0,31.87
+Au,coated,60.0,irregular,50.0,p,Bacilli,Staphylococcaceae,Streptococcus mutans,12.0,6.62
+Au,coated,60.0,irregular,50.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,12.0,30.13
+Au,coated,60.0,irregular,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,12.0,34.33
+Au,coated,60.0,irregular,100.0,p,Bacilli,Enterococcaceae,Enterococcus faecalis,12.0,7.8
+Au,coated,60.0,irregular,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,12.0,33.9
+Au,coated,60.0,irregular,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,12.0,35.4
+Au,coated,60.0,irregular,100.0,p,Bacilli,Staphylococcaceae,Streptococcus mutans,12.0,6.98
+Au,coated,60.0,irregular,100.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,12.0,22.28
+Au,coated,60.0,irregular,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,12.0,31.98
+Au,coated,37.7,spherical,10.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,8.33
+Au,coated,37.7,spherical,10.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,8.56
+Au,coated,37.7,spherical,10.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.67
+Au,coated,37.7,spherical,10.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,13.72
+Au,coated,37.7,spherical,20.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,8.67
+Au,coated,37.7,spherical,20.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,9.0
+Au,coated,37.7,spherical,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,13.67
+Au,coated,37.7,spherical,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,14.53
+Au,coated,37.7,spherical,30.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,9.42
+Au,coated,37.7,spherical,30.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,10.47
+Au,coated,37.7,spherical,30.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,15.33
+Au,coated,37.7,spherical,30.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,15.42
+Au,coated,37.7,spherical,40.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,10.56
+Au,coated,37.7,spherical,40.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,11.33
+Au,coated,37.7,spherical,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,17.67
+Au,coated,37.7,spherical,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,15.67
+Au,coated,5.0,spherical,50.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,13.0
+Au,coated,5.0,spherical,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,11.0
+Au,coated,5.0,spherical,100.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,15.0
+Au,coated,5.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,14.0
+Au,coated,5.0,spherical,150.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,18.5
+Au,coated,5.0,spherical,150.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,16.0
+Au,coated,5.0,spherical,200.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,23.5
+Au,coated,5.0,spherical,200.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,20.0
+Au,coated,15.11,spherical,12.5,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,10.0
+Au,coated,15.11,spherical,25.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,11.0
+Au,coated,15.11,spherical,50.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,14.0
+Au,coated,15.11,spherical,100.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,16.0
+Au,coated,15.11,spherical,200.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,18.0
+Au,coated,15.11,spherical,12.5,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,11.0
+Au,coated,15.11,spherical,25.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.0
+Au,coated,15.11,spherical,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,15.0
+Au,coated,15.11,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,17.0
+Au,coated,15.11,spherical,200.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,19.0
+Au,coated,15.11,spherical,6.25,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,11.0
+Au,coated,15.11,spherical,12.5,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,12.0
+Au,coated,15.11,spherical,25.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,13.0
+Au,coated,15.11,spherical,50.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,17.0
+Au,coated,15.11,spherical,100.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,19.0
+Au,coated,15.11,spherical,200.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,21.0
+Au,coated,15.11,spherical,6.25,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.0
+Au,coated,15.11,spherical,12.5,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.0
+Au,coated,15.11,spherical,25.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+Au,coated,15.11,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,16.0
+Au,coated,15.11,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,18.0
+Au,coated,15.11,spherical,200.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,20.0
+Au,coated,80.8,irregular,500.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,11.9
+Au,coated,80.8,irregular,500.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.23
+Au,coated,80.8,irregular,500.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,14.83
+Au,coated,80.8,irregular,500.0,p,Bacilli,Bacillaceae,Bacillus cereus,24.0,17.26
+Au,coated,82.7,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.3
+Au,coated,82.7,spherical,100.0,n,Gammaproteobacteria,Morganellaceae,Proteus vulgaris,24.0,8.5
+Au,coated,82.7,spherical,100.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,5.6
+Au,coated,82.7,spherical,100.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,6.3
+Au,coated,82.7,spherical,100.0,n,Gammaproteobacteria,Yersiniaceae,Serratia marcescens,24.0,7.9
+Au,coated,82.7,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,10.9
+Au,coated,82.7,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,10.7
+Au,coated,20.0,spherical,100.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,11.0
+Au,coated,20.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,11.0
+Au,coated,20.0,spherical,100.0,p,Bacilli,Enterococcaceae,Enterococcus faecalis,24.0,10.0
+Au,coated,20.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,10.0
+Au,coated,20.0,spherical,100.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,12.0
+Au,coated,20.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.0
+Au,coated,20.0,spherical,150.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,14.0
+Au,coated,20.0,spherical,150.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.0
+Au,coated,20.0,spherical,150.0,p,Bacilli,Enterococcaceae,Enterococcus faecalis,24.0,12.0
+Au,coated,20.0,spherical,150.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,13.0
+Au,coated,20.0,spherical,150.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,12.0
+Au,coated,20.0,spherical,150.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+Au,coated,20.0,spherical,200.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,15.0
+Au,coated,20.0,spherical,200.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.0
+Au,coated,20.0,spherical,200.0,p,Bacilli,Enterococcaceae,Enterococcus faecalis,24.0,13.0
+Au,coated,20.0,spherical,200.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,14.0
+Au,coated,20.0,spherical,200.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,13.0
+Au,coated,20.0,spherical,200.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+Au,uncoated,27.0,spherical,30.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.0
+Au,uncoated,27.0,spherical,40.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,14.0
+Au,uncoated,27.0,spherical,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,19.0
+Au,uncoated,27.0,spherical,30.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,13.0
+Au,uncoated,27.0,spherical,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,14.0
+Au,uncoated,27.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,16.0
+Au,uncoated,38.76,irregular,25.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,8.0
+Au,uncoated,38.76,irregular,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.0
+Au,uncoated,38.76,irregular,75.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+Au,uncoated,38.76,irregular,25.0,n,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,7.5
+Au,uncoated,38.76,irregular,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,10.0
+Au,uncoated,38.76,irregular,75.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,13.0
+Au,uncoated,8.61,spherical,10.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,2.5
+Au,uncoated,8.61,spherical,10.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,3.0
+Au,uncoated,8.61,spherical,10.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,7.0
+Au,uncoated,8.61,spherical,10.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,3.5
+Au,uncoated,8.61,spherical,20.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,10.5
+Au,uncoated,8.61,spherical,20.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,8.0
+Au,uncoated,8.61,spherical,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.0
+Au,uncoated,8.61,spherical,20.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,4.5
+Au,uncoated,8.61,spherical,30.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,11.5
+Au,uncoated,8.61,spherical,30.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,9.5
+Au,uncoated,8.61,spherical,30.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.0
+Au,uncoated,8.61,spherical,30.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,5.5
+Au,uncoated,8.61,spherical,40.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.0
+Au,uncoated,8.61,spherical,40.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,10.0
+Au,uncoated,8.61,spherical,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+Au,uncoated,8.61,spherical,40.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,7.5
+CuO,coated,30.0,spherical,31.25,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,13.0
+CuO,coated,30.0,spherical,125.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,10.0
+CuO,coated,30.0,spherical,7.25,p,Bacilli,Listeriaceae,Listeria monocytogenes,24.0,18.0
+CuO,coated,30.0,spherical,31.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,14.0
+CuO,coated,30.0,spherical,15.62,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella typhimurium,24.0,15.0
+CuO,coated,6.0,spherical,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus ,24.0,17.0
+CuO,coated,6.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,6.0
+CuO,coated,6.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,7.0
+CuO,coated,6.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus ,24.0,20.0
+CuO,coated,6.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+CuO,coated,6.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,11.0
+CuO,coated,6.0,spherical,250.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus ,24.0,30.0
+CuO,coated,6.0,spherical,250.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,27.0
+CuO,coated,6.0,spherical,250.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,27.0
+CuO,coated,8.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,5.0
+CuO,coated,8.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,4.0
+CuO,coated,8.0,spherical,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus ,24.0,17.0
+CuO,coated,8.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.0
+CuO,coated,8.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,11.0
+CuO,coated,8.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus ,24.0,21.0
+CuO,coated,8.0,spherical,250.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,26.0
+CuO,coated,8.0,spherical,250.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,27.0
+CuO,coated,8.0,spherical,250.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus ,24.0,30.0
+CuO,coated,66.8,spherical,2500.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus ,24.0,16.7
+CuO,coated,66.8,spherical,2500.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas sp.,24.0,17.7
+CuO,uncoated,17.7,spherical,40.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,23.0
+CuO,uncoated,17.7,spherical,20000.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,22.0
+CuO,uncoated,17.7,spherical,10000.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,20.0
+CuO,uncoated,17.7,spherical,5000.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,17.0
+CuO,uncoated,17.7,spherical,2500.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,13.0
+CuO,uncoated,31.5,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,17.0
+CuO,uncoated,31.5,spherical,75.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,19.0
+CuO,uncoated,31.5,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,20.0
+CuO,uncoated,40.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,18.0
+CuO,uncoated,40.0,spherical,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus ,24.0,15.0
+CuO,uncoated,90.0,spherical,100.0,n,Gammaproteobacteria,Pasteurellaceae,Aggregatibacter actinomycetemcomitans,48.0,6.9
+CuO,coated,90.0,spherical,100.0,n,Gammaproteobacteria,Pasteurellaceae,Aggregatibacter actinomycetemcomitans,48.0,5.8
+CuO,coated,36.22,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus ,24.0,18.0
+CuO,coated,36.22,spherical,100.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,19.0
+CuO,coated,20.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Streptococcus mutans,24.0,6.0
+CuO,coated,20.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,9.5
+CuO,uncoated,15.0,spherical,4.0,n,Gammaproteobacteria,Enterobacteriaceae,Enterobacter aerogenes,24.0,18.0
+CuO,uncoated,15.0,spherical,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella typhi,24.0,17.0
+CuO,uncoated,40.0,spherical,100.0,p,Bacilli,Enterococcaceae,Enterococcus faecalis,18.0,12.0
+CuO,uncoated,40.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Streptococcus mutans,18.0,18.0
+CuO,uncoated,40.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,18.0,10.0
+CuO,uncoated,40.0,spherical,100.0,n,Gammaproteobacteria,Xanthomonadaceae,Stenotrophomonas maltophilia,18.0,13.0
+CuO,uncoated,24.0,spherical,200.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,15.0
+CuO,uncoated,24.0,spherical,200.0,p,Bacilli,Bacillaceae,Bacillus cereus,24.0,12.0
+CuO,uncoated,10.0,spherical,250.0,n,Betaproteobacteria,Burkholderiaceae,Ralstonia solanacearum,24.0,22.0
+CuO,uncoated,10.0,spherical,250.0,n,Gammaproteobacteria,Erwiniaceae,Erwinia amylovora,24.0,19.0
+NiO,uncoated,29.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,26.0
+NiO,uncoated,29.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,36.0
+NiO,uncoated,29.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus epidermidis,24.0,29.0
+NiO,uncoated,29.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,40.0
+NiO,uncoated,38.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,25.0
+NiO,uncoated,38.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,21.0
+NiO,uncoated,38.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus epidermidis,24.0,30.0
+NiO,uncoated,38.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,25.0
+NiO,uncoated,3.0,rod,50.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,20.0
+NiO,uncoated,3.0,rod,25.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,12.0
+NiO,uncoated,3.0,rod,10.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,7.0
+NiO,uncoated,100.0,spherical,10000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,4.5
+NiO,uncoated,100.0,spherical,10000.0,n,Gammaproteobacteria,Morganellaceae,Proteus vulgaris,24.0,10.0
+NiO,uncoated,100.0,spherical,10000.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,7.0
+NiO,uncoated,32.0,rod,50.0,p,Bacilli,Staphylococcaceae,Streptococcus pneumoniae,24.0,16.0
+NiO,uncoated,32.0,rod,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,19.0
+NiO,uncoated,32.0,rod,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia hermanni,24.0,7.0
+NiO,uncoated,32.0,rod,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,13.0
+NiO,uncoated,20.0,quasi-spherical,5.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,12.0
+NiO,uncoated,20.0,quasi-spherical,5.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,13.0
+NiO,uncoated,20.0,quasi-spherical,5.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,14.0
+NiO,uncoated,20.0,quasi-spherical,5.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,16.0
+NiO,uncoated,20.0,quasi-spherical,10.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,21.0
+NiO,uncoated,20.0,quasi-spherical,10.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,20.0
+NiO,uncoated,20.0,quasi-spherical,10.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,21.0
+NiO,uncoated,20.0,quasi-spherical,10.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,23.0
+NiO,uncoated,16.0,tetragonal,20.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,14.7
+NiO,uncoated,16.0,tetragonal,20.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,18.3
+NiO,uncoated,16.0,tetragonal,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,13.7
+NiO,uncoated,16.0,tetragonal,20.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,14.3
+NiO,uncoated,28.0,tetragonal,20.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,8.7
+NiO,uncoated,28.0,tetragonal,20.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,13.7
+NiO,uncoated,28.0,tetragonal,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.5
+NiO,uncoated,28.0,tetragonal,20.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,10.5
+NiO,uncoated,58.0,irregular,2000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,13.2
+NiO,uncoated,58.0,irregular,2000.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,9.2
+NiO,uncoated,58.0,irregular,2000.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,15.2
+NiO,uncoated,58.0,irregular,2000.0,p,Bacilli,Bacillaceae,Bacillus licheniformis,24.0,12.6
+NiO,uncoated,59.0,irregular,4000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,18.3
+NiO,uncoated,60.0,irregular,4000.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,11.6
+NiO,uncoated,61.0,irregular,4000.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,24.1
+NiO,uncoated,62.0,irregular,4000.0,p,Bacilli,Bacillaceae,Bacillus licheniformis,24.0,18.5
+NiO,uncoated,63.0,irregular,8000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,22.1
+NiO,uncoated,64.0,irregular,8000.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,15.9
+NiO,uncoated,65.0,irregular,8000.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,28.1
+NiO,uncoated,66.0,irregular,8000.0,p,Bacilli,Bacillaceae,Bacillus licheniformis,24.0,26.9
+NiO,coated,39.0,platelet,50.0,p,Bacilli,Bacillaceae,Bacillus cereus,24.0,21.6
+NiO,coated,39.0,platelet,50.0,n,Gammaproteobacteria,Yersiniaceae,Serratia marcescens,24.0,22.0
+NiO,coated,45.0,platelet,50.0,p,Bacilli,Bacillaceae,Bacillus cereus,24.0,18.2
+NiO,coated,45.0,platelet,50.0,n,Gammaproteobacteria,Yersiniaceae,Serratia marcescens,24.0,19.3
+NiO,coated,61.0,platelet,50.0,p,Bacilli,Bacillaceae,Bacillus cereus,24.0,18.0
+NiO,coated,61.0,platelet,50.0,n,Gammaproteobacteria,Yersiniaceae,Serratia marcescens,24.0,21.0
+NiO,uncoated,20.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,16.0
+NiO,uncoated,21.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,14.0
+NiO,uncoated,30.0,spherical,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.0
+NiO,uncoated,30.0,spherical,30.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.0
+NiO,uncoated,30.0,spherical,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,13.5
+NiO,uncoated,30.0,spherical,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,13.0
+NiO,uncoated,30.0,spherical,30.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,14.0
+NiO,uncoated,30.0,spherical,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,15.0
+NiO,uncoated,30.0,spherical,20.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,10.0
+NiO,uncoated,30.0,spherical,30.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,10.0
+NiO,uncoated,30.0,spherical,40.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,15.0
+NiO,uncoated,30.0,spherical,20.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,9.0
+NiO,uncoated,30.0,spherical,30.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,11.0
+NiO,uncoated,30.0,spherical,40.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,13.0
+NiO,uncoated,31.0,asymmetrical,500.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,3.0
+NiO,uncoated,13.5,rhombohedral,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,13.8
+NiO,uncoated,32.0,cubic,5000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.0
+TiO2,coated,18.0,irregular,10000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,10.0
+TiO2,coated,18.0,irregular,10000.0,p,Bacilli,Staphylococcaceae,Streptococcus pyogenes,24.0,9.0
+TiO2,coated,18.0,irregular,10000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,6.0
+TiO2,coated,18.0,irregular,10000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,8.0
+TiO2,coated,18.0,irregular,20000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,11.0
+TiO2,coated,18.0,irregular,20000.0,p,Bacilli,Staphylococcaceae,Streptococcus pyogenes,24.0,10.0
+TiO2,coated,18.0,irregular,20000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,9.0
+TiO2,coated,18.0,irregular,20000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,9.0
+TiO2,coated,18.0,irregular,30000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.0
+TiO2,coated,18.0,irregular,30000.0,p,Bacilli,Staphylococcaceae,Streptococcus pyogenes,24.0,11.0
+TiO2,coated,18.0,irregular,30000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.0
+TiO2,coated,18.0,irregular,30000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,9.0
+TiO2,coated,18.0,irregular,40000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,14.0
+TiO2,coated,18.0,irregular,40000.0,p,Bacilli,Staphylococcaceae,Streptococcus pyogenes,24.0,13.0
+TiO2,coated,18.0,irregular,40000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.0
+TiO2,coated,18.0,irregular,40000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,11.0
+TiO2,uncoated,84.0,rod,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,19.5
+TiO2,uncoated,84.0,rod,20.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,18.0
+TiO2,uncoated,84.0,rod,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,21.0
+TiO2,uncoated,84.0,rod,40.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,20.0
+TiO2,uncoated,84.0,rod,60.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,23.5
+TiO2,uncoated,84.0,rod,60.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,23.0
+TiO2,uncoated,84.0,rod,80.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,25.0
+TiO2,uncoated,84.0,rod,80.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,23.0
+TiO2,uncoated,68.0,spherical,10000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.0
+TiO2,uncoated,68.0,spherical,20000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,13.0
+TiO2,uncoated,46.0,spherical,10000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,15.0
+TiO2,uncoated,46.0,spherical,20000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,19.0
+TiO2,uncoated,68.0,spherical,10000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.5
+TiO2,uncoated,68.0,spherical,20000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,14.0
+TiO2,uncoated,46.0,spherical,10000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,16.0
+TiO2,uncoated,46.0,spherical,20000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,21.0
+TiO2,coated,5.0,spherical,25.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,24.0
+TiO2,coated,5.0,spherical,25.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,22.0
+TiO2,coated,5.0,spherical,25.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,17.0
+TiO2,coated,5.0,spherical,25.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,14.0
+TiO2,coated,68.0,spherical,50.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,25.0
+TiO2,coated,68.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,35.0
+TiO2,coated,68.0,spherical,50.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,27.0
+TiO2,coated,68.0,spherical,50.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,18.0
+TiO2,coated,68.0,spherical,50.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,22.0
+TiO2,uncoated,20.0,spherical,10000.0,p,Bacilli,Enterococcaceae,Enterococcus faecalis,24.0,11.4
+TiO2,uncoated,20.0,spherical,10000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,11.2
+TiO2,uncoated,20.0,spherical,10000.0,p,Bacilli,Staphylococcaceae,Streptococcus faecalis,24.0,11.6
+TiO2,uncoated,20.0,spherical,10000.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,10.5
+TiO2,uncoated,20.0,spherical,10000.0,n,Gammaproteobacteria,Enterobacteriaceae,Yersinia enterocolitica,24.0,10.6
+TiO2,uncoated,20.0,spherical,10000.0,n,Gammaproteobacteria,Morganellaceae,Proteus vulgaris,24.0,8.5
+TiO2,uncoated,20.0,spherical,10000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.8
+TiO2,uncoated,20.0,spherical,10000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,10.3
+TiO2,uncoated,20.0,spherical,10000.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,10.2
+TiO2,uncoated,45.0,spherical,10000.0,n,Gammaproteobacteria,Morganellaceae,Proteus vulgaris,24.0,5.0
+TiO2,uncoated,45.0,spherical,20000.0,n,Gammaproteobacteria,Morganellaceae,Proteus vulgaris,24.0,8.0
+TiO2,uncoated,45.0,spherical,30000.0,n,Gammaproteobacteria,Morganellaceae,Proteus vulgaris,24.0,15.0
+TiO2,coated,26.0,spherical,25.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,22.0
+TiO2,coated,26.0,spherical,50.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,20.0
+TiO2,uncoated,100.0,spherical,100.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,10.0
+TiO2,uncoated,100.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+TiO2,uncoated,100.0,spherical,100.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,15.0
+TiO2,uncoated,100.0,spherical,100.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.0
+TiO2,uncoated,100.0,spherical,500.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,11.0
+TiO2,uncoated,100.0,spherical,500.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,15.0
+TiO2,uncoated,100.0,spherical,500.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,20.0
+TiO2,uncoated,100.0,spherical,500.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,16.0
+TiO2,uncoated,100.0,spherical,1000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,15.0
+TiO2,uncoated,100.0,spherical,1000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,20.0
+TiO2,uncoated,100.0,spherical,1000.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,23.0
+TiO2,uncoated,100.0,spherical,1000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,19.0
+TiO2,uncoated,18.0,irregular,200.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,6.0
+TiO2,uncoated,18.0,irregular,200.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,8.0
+TiO2,uncoated,18.0,irregular,200.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,16.0
+TiO2,uncoated,18.0,irregular,400.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,7.0
+TiO2,uncoated,18.0,irregular,400.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,10.0
+TiO2,uncoated,18.0,irregular,400.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,16.0
+TiO2,uncoated,18.0,irregular,600.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,8.0
+TiO2,uncoated,18.0,irregular,600.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,11.0
+TiO2,uncoated,18.0,irregular,600.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,18.0
+TiO2,uncoated,18.0,irregular,800.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,9.0
+TiO2,uncoated,18.0,irregular,800.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,12.0
+TiO2,uncoated,18.0,irregular,800.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,18.0
+TiO2,uncoated,18.0,irregular,1000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.0
+TiO2,uncoated,18.0,irregular,1000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,12.0
+TiO2,uncoated,18.0,irregular,1000.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,19.0
+TiO2,uncoated,18.0,irregular,1200.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.5
+TiO2,uncoated,18.0,irregular,1200.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,13.0
+TiO2,uncoated,18.0,irregular,1200.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,19.0
+TiO2,uncoated,18.0,irregular,1400.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.0
+TiO2,uncoated,18.0,irregular,1400.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,14.0
+TiO2,uncoated,18.0,irregular,1400.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,20.0
+ZnO,uncoated,17.2,spherical,40000.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,17.0
+ZnO,uncoated,17.2,spherical,20000.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,15.0
+ZnO,uncoated,17.2,spherical,10000.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,14.0
+ZnO,uncoated,17.2,spherical,5000.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,13.0
+ZnO,uncoated,17.2,spherical,2500.0,p,Bacilli,Lactobacillaceae,Lactobacillus reuteri,24.0,14.0
+ZnO,coated,15.0,spherical,10000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,8.0
+ZnO,coated,15.0,spherical,10000.0,p,Bacilli,Staphylococcaceae,Streptococcus pyogenes,24.0,7.0
+ZnO,coated,15.0,spherical,10000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,7.0
+ZnO,coated,15.0,spherical,10000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,9.0
+ZnO,coated,15.0,spherical,20000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.0
+ZnO,coated,15.0,spherical,20000.0,p,Bacilli,Staphylococcaceae,Streptococcus pyogenes,24.0,10.0
+ZnO,coated,15.0,spherical,20000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.0
+ZnO,coated,15.0,spherical,20000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,10.0
+ZnO,coated,15.0,spherical,30000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,15.0
+ZnO,coated,15.0,spherical,30000.0,p,Bacilli,Staphylococcaceae,Streptococcus pyogenes,24.0,13.0
+ZnO,coated,15.0,spherical,30000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.0
+ZnO,coated,15.0,spherical,30000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,11.0
+ZnO,coated,15.0,spherical,40000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,17.0
+ZnO,coated,15.0,spherical,40000.0,p,Bacilli,Staphylococcaceae,Streptococcus pyogenes,24.0,16.0
+ZnO,coated,15.0,spherical,40000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+ZnO,coated,15.0,spherical,40000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,13.0
+ZnO,uncoated,44.0,petal,20.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,22.0
+ZnO,uncoated,44.0,petal,20.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,22.5
+ZnO,uncoated,44.0,petal,40.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,23.0
+ZnO,uncoated,44.0,petal,40.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,25.0
+ZnO,uncoated,44.0,petal,60.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,25.0
+ZnO,uncoated,44.0,petal,60.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,26.0
+ZnO,uncoated,44.0,petal,80.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,26.0
+ZnO,uncoated,44.0,petal,80.0,p,Bacilli,Bacillaceae,Bacillus subtilis,24.0,26.7
+ZnO,uncoated,18.0,irregular,200.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,6.5
+ZnO,uncoated,18.0,irregular,200.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,15.0
+ZnO,uncoated,18.0,irregular,200.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,18.0
+ZnO,uncoated,18.0,irregular,400.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,7.0
+ZnO,uncoated,18.0,irregular,400.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,17.0
+ZnO,uncoated,18.0,irregular,400.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,19.0
+ZnO,uncoated,18.0,irregular,600.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,8.0
+ZnO,uncoated,18.0,irregular,600.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,18.0
+ZnO,uncoated,18.0,irregular,600.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,20.0
+ZnO,uncoated,18.0,irregular,800.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.5
+ZnO,uncoated,18.0,irregular,800.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,18.0
+ZnO,uncoated,18.0,irregular,800.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,22.5
+ZnO,uncoated,18.0,irregular,1000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.0
+ZnO,uncoated,18.0,irregular,1000.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,19.0
+ZnO,uncoated,18.0,irregular,1000.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,23.0
+ZnO,uncoated,18.0,irregular,1200.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+ZnO,uncoated,18.0,irregular,1200.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,19.0
+ZnO,uncoated,18.0,irregular,1200.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,23.5
+ZnO,uncoated,18.0,irregular,1400.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,13.0
+ZnO,uncoated,18.0,irregular,1400.0,n,Gammaproteobacteria,Pseudomonadaceae,Pseudomonas aeruginosa,24.0,20.0
+ZnO,uncoated,18.0,irregular,1400.0,n,Gammaproteobacteria,Enterobacteriaceae,Klebsiella pneumoniae ,24.0,24.0
+ZnO,uncoated,15.0,spherical,10.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,18.0
+ZnO,uncoated,15.0,spherical,10.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,14.0
+ZnO,uncoated,29.7,spherical,1000.0,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella enterica,24.0,8.0
+ZnO,uncoated,29.7,spherical,2000.0,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella enterica,24.0,9.33
+ZnO,uncoated,29.7,spherical,3000.0,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella enterica,24.0,10.67
+ZnO,uncoated,29.7,spherical,4000.0,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella enterica,24.0,12.0
+ZnO,uncoated,29.7,spherical,5000.0,n,Gammaproteobacteria,Enterobacteriaceae,Salmonella enterica,24.0,12.33
+ZnO,uncoated,29.7,spherical,1000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,8.0
+ZnO,uncoated,29.7,spherical,2000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,9.0
+ZnO,uncoated,29.7,spherical,3000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,10.33
+ZnO,uncoated,29.7,spherical,4000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,11.0
+ZnO,uncoated,29.7,spherical,5000.0,n,Gammaproteobacteria,Enterobacteriaceae,Escherichia coli,24.0,12.0
+ZnO,uncoated,29.7,spherical,1000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,11.33
+ZnO,uncoated,29.7,spherical,2000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,12.0
+ZnO,uncoated,29.7,spherical,3000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,15.0
+ZnO,uncoated,29.7,spherical,4000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,16.0
+ZnO,uncoated,29.7,spherical,5000.0,p,Bacilli,Staphylococcaceae,Staphylococcus aureus,24.0,19.67
